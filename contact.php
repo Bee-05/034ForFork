@@ -17,6 +17,9 @@
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
+
+				<li><a href="contact.php">จองห้อง12222</li>
+
 				<li><a href="contact.php">จองห้อง</li>
 				<li><a href="contact.php">รายละเอียด</li>
 				</ul><p>
