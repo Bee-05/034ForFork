@@ -19,6 +19,9 @@
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">จองห้อง12222</li>
 				<li><a href="contact.php">044</li>
+				<li><a href="contact.php">จองห้อง</li>
+				<li><a href="contact.php">รายละเอียด</li>
+
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
